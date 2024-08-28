@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlaqJzure.Web", "BlaqJzure.Web\BlaqJzure.Web.csproj", "{9D6C1185-8E75-4169-8A7C-E5DBF8181274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlaqJzure.Web", "BlaqJzure.Web\BlaqJzure.Web.csproj", "{9D6C1185-8E75-4169-8A7C-E5DBF8181274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlaqJzure.Service", "BlaqJzure.Service\BlaqJzure.Service.csproj", "{2E47A318-3413-474E-A1A5-24E070BEE450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlaqJzure.Repository", "BlaqJzure.Repository\BlaqJzure.Repository.csproj", "{315A6AD6-64D9-4D4B-A0BA-46C7A2859FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlaqJzure.Domain", "BlaqJzure.Domain\BlaqJzure.Domain.csproj", "{C1A34A32-6F47-45BE-ACDC-B59DB7FE809A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlaqJzure.Common", "BlaqJzure.Common\BlaqJzure.Common.csproj", "{774D03B2-B6A4-4F3F-BE8D-0B0C6403F95F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{9D6C1185-8E75-4169-8A7C-E5DBF8181274}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D6C1185-8E75-4169-8A7C-E5DBF8181274}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D6C1185-8E75-4169-8A7C-E5DBF8181274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E47A318-3413-474E-A1A5-24E070BEE450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E47A318-3413-474E-A1A5-24E070BEE450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E47A318-3413-474E-A1A5-24E070BEE450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E47A318-3413-474E-A1A5-24E070BEE450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315A6AD6-64D9-4D4B-A0BA-46C7A2859FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315A6AD6-64D9-4D4B-A0BA-46C7A2859FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315A6AD6-64D9-4D4B-A0BA-46C7A2859FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315A6AD6-64D9-4D4B-A0BA-46C7A2859FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A34A32-6F47-45BE-ACDC-B59DB7FE809A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A34A32-6F47-45BE-ACDC-B59DB7FE809A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A34A32-6F47-45BE-ACDC-B59DB7FE809A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A34A32-6F47-45BE-ACDC-B59DB7FE809A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774D03B2-B6A4-4F3F-BE8D-0B0C6403F95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774D03B2-B6A4-4F3F-BE8D-0B0C6403F95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774D03B2-B6A4-4F3F-BE8D-0B0C6403F95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774D03B2-B6A4-4F3F-BE8D-0B0C6403F95F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

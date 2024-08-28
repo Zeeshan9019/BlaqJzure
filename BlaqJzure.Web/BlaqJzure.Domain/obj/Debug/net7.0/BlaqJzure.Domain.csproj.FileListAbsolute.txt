@@ -1,0 +1,16 @@
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net7.0\BlaqJzure.Domain.deps.json
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net7.0\BlaqJzure.Domain.dll
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net7.0\BlaqJzure.Domain.pdb
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net7.0\BlaqJzure.Common.dll
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net7.0\BlaqJzure.Common.pdb
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzure.Domain.csproj.AssemblyReference.cache
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzure.Domain.AssemblyInfoInputs.cache
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzure.Domain.AssemblyInfo.cs
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzure.Domain.csproj.CoreCompileInputs.cache
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzure.Domain.sourcelink.json
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzur.FB8B9F2A.Up2Date
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzure.Domain.dll
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\refint\BlaqJzure.Domain.dll
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\BlaqJzure.Domain.pdb
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net7.0\ref\BlaqJzure.Domain.dll

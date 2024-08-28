@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Salajeet temp\\BlaqJzure.Web\\",
+  "WorkspaceRootPath": "F:\\BlaqJzure\\BlaqJzure.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\salajeet temp\\blaqjzure.web\\blaqjzure.web\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\blaqjzure\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\salajeet temp\\blaqjzure.web\\blaqjzure.web\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\blaqjzure\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\salajeet temp\\blaqjzure.web\\blaqjzure.web\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\blaqjzure\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\salajeet temp\\blaqjzure.web\\blaqjzure.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\blaqjzure\\blaqjzure.web\\blaqjzure.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\salajeet temp\\blaqjzure.web\\blaqjzure.web\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\blaqjzure\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\salajeet temp\\blaqjzure.web\\blaqjzure.web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\salajeet temp\\blaqjzure.web\\blaqjzure.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|f:\\blaqjzure\\blaqjzure.web\\blaqjzure.web\\blaqjzure.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\blaqjzure.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CheckOutController.cs",
-              "DocumentMoniker": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\CheckOutController.cs",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Controllers\\CheckOutController.cs",
-              "ToolTip": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\CheckOutController.cs",
-              "RelativeToolTip": "BlaqJzure.Web\\Controllers\\CheckOutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAvwHcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T04:57:28.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Program.cs",
+              "ToolTip": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Program.cs",
+              "RelativeToolTip": "BlaqJzure.Web\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwDwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T07:11:50.547Z"
+              "WhenOpened": "2024-08-28T04:44:55.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T04:43:53.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:43:36.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Views\\CheckOut\\Index.cshtml",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Views\\CheckOut\\Index.cshtml",
-              "ToolTip": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Views\\CheckOut\\Index.cshtml",
-              "RelativeToolTip": "BlaqJzure.Web\\Views\\CheckOut\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA+AAAA",
+              "DocumentMoniker": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T07:08:59.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Controllers\\CartController.cs",
-              "ToolTip": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\CartController.cs",
-              "RelativeToolTip": "BlaqJzure.Web\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T07:03:34.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "BlaqJzure.Web\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AQIAAKcAAAAANDMzMzMbwK8AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T07:02:56.575Z",
+              "WhenOpened": "2024-08-28T04:42:50.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Controllers\\ContactController.cs",
-              "ToolTip": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "BlaqJzure.Web\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T06:56:02.636Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "BlaqJzure.Web\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAACQAAACAZmZmZmYkwDIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T06:55:40.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Navbar.cshtml",
-              "DocumentMoniker": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Views\\Shared\\_Navbar.cshtml",
-              "ToolTip": "F:\\Salajeet temp\\BlaqJzure.Web\\BlaqJzure.Web\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeToolTip": "BlaqJzure.Web\\Views\\Shared\\_Navbar.cshtml",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAAAH8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-26T06:50:13.177Z"
+              "Title": "BlaqJzure.Web",
+              "DocumentMoniker": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\BlaqJzure.Web.csproj",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\BlaqJzure.Web.csproj",
+              "ToolTip": "F:\\BlaqJzure\\BlaqJzure.Web\\BlaqJzure.Web\\BlaqJzure.Web.csproj",
+              "RelativeToolTip": "BlaqJzure.Web\\BlaqJzure.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T04:38:44.786Z",
+              "EditorCaption": ""
             }
           ]
         }

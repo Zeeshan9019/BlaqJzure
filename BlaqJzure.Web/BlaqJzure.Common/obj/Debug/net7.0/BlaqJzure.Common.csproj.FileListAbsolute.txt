@@ -1,0 +1,13 @@
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net7.0\BlaqJzure.Common.deps.json
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net7.0\BlaqJzure.Common.dll
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net7.0\BlaqJzure.Common.pdb
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\BlaqJzure.Common.csproj.AssemblyReference.cache
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\BlaqJzure.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\BlaqJzure.Common.AssemblyInfoInputs.cache
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\BlaqJzure.Common.AssemblyInfo.cs
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\BlaqJzure.Common.csproj.CoreCompileInputs.cache
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\BlaqJzure.Common.sourcelink.json
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\BlaqJzure.Common.dll
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\refint\BlaqJzure.Common.dll
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\BlaqJzure.Common.pdb
+F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net7.0\ref\BlaqJzure.Common.dll

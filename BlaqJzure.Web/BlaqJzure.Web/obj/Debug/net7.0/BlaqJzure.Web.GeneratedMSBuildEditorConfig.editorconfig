@@ -9,67 +9,95 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlaqJzure.Web
 build_property.RootNamespace = BlaqJzure.Web
-build_property.ProjectDir = F:\Salajeet temp\BlaqJzure.Web\BlaqJzure.Web\
+build_property.ProjectDir = F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Salajeet temp\BlaqJzure.Web\BlaqJzure.Web
+build_property.MSBuildProjectDirectory = F:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Blog/Index.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/AdminDashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5EYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/Shared/_AdminMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbk1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Cart/Index.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/CheckOut/Index.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/CheckOut/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Contact/Index.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Home/Index.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Error/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Error/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Home/Privacy.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/Error.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/_Footer.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/_Navbar.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Shop/Index.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/_ViewImports.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/_ViewStart.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Salajeet temp/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/_Layout.cshtml]
+[F:/BlaqJzure/BlaqJzure.Web/BlaqJzure.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w1b4uovoai
